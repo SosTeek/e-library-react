@@ -10,4 +10,67 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    
 }
+
+
+/* const useStyles = makeStyles({
+  newStyle: {
+    width: '100%',
+    height:'100vh',
+    backgroundImage: `url(${BackgroundImage})`,
+    backgroundSize: 'cover',
+    paddingTop: 60,
+    backgroundRepeat: 'no-repeat',
+  },
+  box: {
+    width: 400,
+    height: 430,
+    marginRight: 'auto',
+    marginLeft: 'auto',
+    marginTop: 12,
+    justifyContent: 'center',
+    textAlign: 'center',
+    borderRadius: 15,
+    backgroundColor: 'white',
+    paddingTop: 25
+  },
+  avatar: {
+    height: 100,
+    width: 100,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+  },
+  typography: {
+    paddingTop: 15,
+    textAlign: 'left',
+    paddingLeft: 30 
+  },
+  box2: {
+    marginTop: 15,
+    // marginBottom: 15,
+    textAlign: 'left',
+    marginLeft: 40
+  },
+  formcontrol: {
+    margin: 'auto',
+    padding: 'auto',
+    // m: 1,
+    // paddingTop: 13,
+    // marginLeft: 8,
+    // paddingBottom: 12,
+    width: "33ch" 
+  }
+}) */
+/* HEX :#052528
+
+RGB:5, 37, 40
+
+CMYK: 87, 7, 0, 84
+
+HEX: #0B4D55
+
+RGB: 11, 77, 85
+
+CMYK: 87, 9, 0, 67
+ */
